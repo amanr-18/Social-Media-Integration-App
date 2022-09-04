@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Social Media Integration App</string>
+    <string name="facebook_app_id">2674387249275509</string>
+    <!--    <string name="facebook_app_id">fb1234</string>-->
+
+    <!--&lt;!&ndash;    android:value="@string/facebook_app_id"/>&ndash;&gt;-->
+    <!--    <string name="fb_login_protocol_scheme">fb_facebook_app_id</string>-->
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+</resources>
